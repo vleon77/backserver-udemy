@@ -1,0 +1,1 @@
+module.exports.SEED = "@ntr0p0l0g1c0";
